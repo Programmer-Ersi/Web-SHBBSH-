@@ -1,0 +1,8 @@
+{
+  "name": "AstraBio Institute | Advanced Biotechnology & Life Sciences Research",
+  "description": "World-class biotechnology organization leading genomic engineering, precision therapeutics, synthetic biology research, and interactive molecular exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
